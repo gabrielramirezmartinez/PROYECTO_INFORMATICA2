@@ -9,7 +9,8 @@ namespace FlightLib
     public class FlightPlan
     {
         // Atributos
-        // esto es una prueba
+        // esto es una prueba de comentario
+        //hjghgfukwfhwe
         string id; // identificador
         Position currentPosition; // posicion actual
         Position finalPosition; // posicion final
