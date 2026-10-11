@@ -77,6 +77,6 @@ namespace Página_principal
             this.Close();
         }
     }
-}
-    
+} //Esto es una prueba de commit para ver si funciona el gitignore y no sube los archivos bin y obj al repositorio
+
 
