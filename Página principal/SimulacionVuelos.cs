@@ -331,6 +331,12 @@ namespace Página_principal
             temporizador.Stop();
             this.Close();
         }
+
+        private void buttonTabla_Click(object sender, EventArgs e)
+        {
+            FormTablaVuelos formTabla = new FormTablaVuelos(vuelo1, vuelo2);
+            formTabla.ShowDialog();
+        }
     }
 
 }

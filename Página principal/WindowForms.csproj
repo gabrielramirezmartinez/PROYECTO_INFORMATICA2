@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FormDistanciaGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDistanciaGrid.Designer.cs">
+      <DependentUpon>FormDistanciaGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTablaVuelos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTablaVuelos.Designer.cs">
+      <DependentUpon>FormTablaVuelos.cs</DependentUpon>
+    </Compile>
     <Compile Include="ParametrosTiempoDistancia.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +87,12 @@
     <Compile Include="SimulacionVuelos.Designer.cs">
       <DependentUpon>SimulacionVuelos.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="FormDistanciaGrid.resx">
+      <DependentUpon>FormDistanciaGrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTablaVuelos.resx">
+      <DependentUpon>FormTablaVuelos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ParametrosTiempoDistancia.resx">
       <DependentUpon>ParametrosTiempoDistancia.cs</DependentUpon>
     </EmbeddedResource>

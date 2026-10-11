@@ -32,6 +32,7 @@ namespace Página_principal
             this.panelAviones = new System.Windows.Forms.Panel();
             this.button1 = new System.Windows.Forms.Button();
             this.labelEcuaciones = new System.Windows.Forms.Label();
+            this.buttonTabla = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // BotonAvanzar
@@ -49,7 +50,7 @@ namespace Página_principal
             this.panelAviones.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.panelAviones.Location = new System.Drawing.Point(496, 62);
             this.panelAviones.Name = "panelAviones";
-            this.panelAviones.Size = new System.Drawing.Size(1278, 1027);
+            this.panelAviones.Size = new System.Drawing.Size(1278, 988);
             this.panelAviones.TabIndex = 0;
             this.panelAviones.Paint += new System.Windows.Forms.PaintEventHandler(this.panelAviones_Paint);
             this.panelAviones.MouseClick += new System.Windows.Forms.MouseEventHandler(this.panelAviones_MouseClick_1);
@@ -65,7 +66,7 @@ namespace Página_principal
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // labelEcuaciones
-            // Control creado desde el diseñador; su posición, tamaño y fuente se editan en Propiedades.
+            // 
             this.labelEcuaciones.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.labelEcuaciones.Location = new System.Drawing.Point(137, 376);
             this.labelEcuaciones.Name = "labelEcuaciones";
@@ -73,11 +74,22 @@ namespace Página_principal
             this.labelEcuaciones.TabIndex = 3;
             this.labelEcuaciones.Text = "Ecuaciones de las trayectorias";
             // 
+            // buttonTabla
+            // 
+            this.buttonTabla.Location = new System.Drawing.Point(163, 564);
+            this.buttonTabla.Name = "buttonTabla";
+            this.buttonTabla.Size = new System.Drawing.Size(165, 90);
+            this.buttonTabla.TabIndex = 4;
+            this.buttonTabla.Text = "Ver Información Vuelos";
+            this.buttonTabla.UseVisualStyleBackColor = true;
+            this.buttonTabla.Click += new System.EventHandler(this.buttonTabla_Click);
+            // 
             // SimulacionVuelos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1895, 1130);
+            this.ClientSize = new System.Drawing.Size(1895, 1055);
+            this.Controls.Add(this.buttonTabla);
             this.Controls.Add(this.labelEcuaciones);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.BotonAvanzar);
@@ -93,5 +105,6 @@ namespace Página_principal
         private System.Windows.Forms.Panel panelAviones;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label labelEcuaciones;
+        private System.Windows.Forms.Button buttonTabla;
     }
 }
