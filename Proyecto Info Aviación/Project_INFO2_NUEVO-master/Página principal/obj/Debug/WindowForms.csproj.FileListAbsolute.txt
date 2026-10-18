@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\obj\Debug\WindowForms.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\obj\Debug\Página_principal.ParametrosTiempoDistancia.resources
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\obj\Debug\Página_principal.PlanesDeVuelo.resources
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\obj\Debug\Página_principal.PáginaPrincipal.resources
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\obj\Debug\Página_principal.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\obj\Debug\WindowForms.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\obj\Debug\WindowForms.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\bin\Debug\Página principal.exe.config
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\bin\Debug\Página principal.exe
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\bin\Debug\Página principal.pdb
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\bin\Debug\FlightLib.dll
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\bin\Debug\FlightLib.pdb
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\obj\Debug\WindowFo.D5357063.Up2Date
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\obj\Debug\Página principal.exe
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\obj\Debug\Página principal.pdb
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\obj\Debug\Página_principal.SimulacionVuelos.resources
+C:\Users\Usuario\Desktop\UPC\2º CARRERA UPC\1º CUATRIMESTRE\INFORMÁTICA II\Proyecto\Proyecto Info Aviación\Project_INFO2_NUEVO-master\Página principal\bin\Debug\AvionP.png
